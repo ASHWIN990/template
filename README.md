@@ -3,7 +3,7 @@
 <img alt="template logo" src="https://i.ibb.co/YBjWLR3/scrshot-2021-08-24-19-10-05.png" />
 </a></div>
 
-<h3 align="center">A script to genrate template files from CLI 🖥️</h3>
+<h3 align="center">A script to generate template files from CLI 🖥️</h3>
 
 <p markdown="1">
 
