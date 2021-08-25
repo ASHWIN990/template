@@ -19,7 +19,7 @@
 
 * Install ```python3``` for your distro
 
-Generally ```python3``` can be installed with package name ```python3``` 
+Generally ```python3``` can be installed with package name ```python3```
 
 ## Installation
 
