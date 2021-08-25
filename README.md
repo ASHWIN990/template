@@ -63,7 +63,7 @@ $ template -l
     # python     script.py
     # bash       script.sh
     # c          main.c
-    # html       index.html
+    # html       index.html 
 
 ```
 
